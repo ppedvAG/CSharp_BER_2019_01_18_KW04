@@ -1,0 +1,7 @@
+C:\Users\kh2\source\repos\CSharp_Berlin_KW4\StructVSClass\bin\Debug\StructVSClass.exe.config
+C:\Users\kh2\source\repos\CSharp_Berlin_KW4\StructVSClass\bin\Debug\StructVSClass.exe
+C:\Users\kh2\source\repos\CSharp_Berlin_KW4\StructVSClass\bin\Debug\StructVSClass.pdb
+C:\Users\kh2\source\repos\CSharp_Berlin_KW4\StructVSClass\obj\Debug\StructVSClass.csprojAssemblyReference.cache
+C:\Users\kh2\source\repos\CSharp_Berlin_KW4\StructVSClass\obj\Debug\StructVSClass.csproj.CoreCompileInputs.cache
+C:\Users\kh2\source\repos\CSharp_Berlin_KW4\StructVSClass\obj\Debug\StructVSClass.exe
+C:\Users\kh2\source\repos\CSharp_Berlin_KW4\StructVSClass\obj\Debug\StructVSClass.pdb

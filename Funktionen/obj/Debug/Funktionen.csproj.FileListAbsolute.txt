@@ -1,0 +1,7 @@
+C:\Users\kh2\source\repos\CSharp_Berlin_KW4\Funktionen\bin\Debug\Funktionen.exe.config
+C:\Users\kh2\source\repos\CSharp_Berlin_KW4\Funktionen\bin\Debug\Funktionen.exe
+C:\Users\kh2\source\repos\CSharp_Berlin_KW4\Funktionen\bin\Debug\Funktionen.pdb
+C:\Users\kh2\source\repos\CSharp_Berlin_KW4\Funktionen\obj\Debug\Funktionen.csproj.CoreCompileInputs.cache
+C:\Users\kh2\source\repos\CSharp_Berlin_KW4\Funktionen\obj\Debug\Funktionen.exe
+C:\Users\kh2\source\repos\CSharp_Berlin_KW4\Funktionen\obj\Debug\Funktionen.pdb
+C:\Users\kh2\source\repos\CSharp_Berlin_KW4\Funktionen\obj\Debug\Funktionen.csprojAssemblyReference.cache

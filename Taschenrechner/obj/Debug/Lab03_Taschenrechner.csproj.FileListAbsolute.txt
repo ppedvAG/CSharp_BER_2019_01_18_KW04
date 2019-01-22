@@ -1,0 +1,6 @@
+C:\Users\kh2\source\repos\CSharp_Berlin_KW4\Taschenrechner\bin\Debug\Taschenrechner.exe.config
+C:\Users\kh2\source\repos\CSharp_Berlin_KW4\Taschenrechner\bin\Debug\Taschenrechner.exe
+C:\Users\kh2\source\repos\CSharp_Berlin_KW4\Taschenrechner\bin\Debug\Taschenrechner.pdb
+C:\Users\kh2\source\repos\CSharp_Berlin_KW4\Taschenrechner\obj\Debug\Lab03_Taschenrechner.csproj.CoreCompileInputs.cache
+C:\Users\kh2\source\repos\CSharp_Berlin_KW4\Taschenrechner\obj\Debug\Taschenrechner.exe
+C:\Users\kh2\source\repos\CSharp_Berlin_KW4\Taschenrechner\obj\Debug\Taschenrechner.pdb

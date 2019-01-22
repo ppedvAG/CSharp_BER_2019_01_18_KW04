@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<PKW xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MaxGeschwindigkeit>350</MaxGeschwindigkeit>
+  <Name>Audi</Name>
+  <AktGeschwindigkeit>0</AktGeschwindigkeit>
+  <Preis>41000</Preis>
+  <MotorLäuft>false</MotorLäuft>
+  <AnzahlTüren>3</AnzahlTüren>
+  <RäderAnzahl>0</RäderAnzahl>
+</PKW>

@@ -1,0 +1,7 @@
+C:\Users\kh2\source\repos\CSharp_Berlin_KW4\ZpufallsZahlen\bin\Debug\ZpufallsZahlen.exe.config
+C:\Users\kh2\source\repos\CSharp_Berlin_KW4\ZpufallsZahlen\bin\Debug\ZpufallsZahlen.exe
+C:\Users\kh2\source\repos\CSharp_Berlin_KW4\ZpufallsZahlen\bin\Debug\ZpufallsZahlen.pdb
+C:\Users\kh2\source\repos\CSharp_Berlin_KW4\ZpufallsZahlen\obj\Debug\ZufallsZahlen.csprojAssemblyReference.cache
+C:\Users\kh2\source\repos\CSharp_Berlin_KW4\ZpufallsZahlen\obj\Debug\ZufallsZahlen.csproj.CoreCompileInputs.cache
+C:\Users\kh2\source\repos\CSharp_Berlin_KW4\ZpufallsZahlen\obj\Debug\ZpufallsZahlen.exe
+C:\Users\kh2\source\repos\CSharp_Berlin_KW4\ZpufallsZahlen\obj\Debug\ZpufallsZahlen.pdb

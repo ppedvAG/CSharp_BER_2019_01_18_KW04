@@ -1,0 +1,6 @@
+C:\Users\kh2\source\repos\CSharp_Berlin_KW4\Enumeratoren\bin\Debug\Enumeratoren.exe.config
+C:\Users\kh2\source\repos\CSharp_Berlin_KW4\Enumeratoren\bin\Debug\Enumeratoren.exe
+C:\Users\kh2\source\repos\CSharp_Berlin_KW4\Enumeratoren\bin\Debug\Enumeratoren.pdb
+C:\Users\kh2\source\repos\CSharp_Berlin_KW4\Enumeratoren\obj\Debug\Modul03_Enumeratoren.csproj.CoreCompileInputs.cache
+C:\Users\kh2\source\repos\CSharp_Berlin_KW4\Enumeratoren\obj\Debug\Enumeratoren.exe
+C:\Users\kh2\source\repos\CSharp_Berlin_KW4\Enumeratoren\obj\Debug\Enumeratoren.pdb

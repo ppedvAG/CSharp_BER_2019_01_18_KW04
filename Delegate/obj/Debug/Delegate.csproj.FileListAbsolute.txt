@@ -1,0 +1,7 @@
+C:\Users\kh2\source\repos\CSharp_Berlin_KW4\Delegate\bin\Debug\Delegate.exe.config
+C:\Users\kh2\source\repos\CSharp_Berlin_KW4\Delegate\bin\Debug\Delegate.exe
+C:\Users\kh2\source\repos\CSharp_Berlin_KW4\Delegate\bin\Debug\Delegate.pdb
+C:\Users\kh2\source\repos\CSharp_Berlin_KW4\Delegate\obj\Debug\Delegate.csprojAssemblyReference.cache
+C:\Users\kh2\source\repos\CSharp_Berlin_KW4\Delegate\obj\Debug\Delegate.csproj.CoreCompileInputs.cache
+C:\Users\kh2\source\repos\CSharp_Berlin_KW4\Delegate\obj\Debug\Delegate.exe
+C:\Users\kh2\source\repos\CSharp_Berlin_KW4\Delegate\obj\Debug\Delegate.pdb

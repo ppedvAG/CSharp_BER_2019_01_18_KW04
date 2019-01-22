@@ -1,0 +1,10 @@
+C:\Users\kh2\source\repos\CSharp_Berlin_KW4\EventHandlingWinForms\bin\Debug\EventHandlingWinForms.exe.config
+C:\Users\kh2\source\repos\CSharp_Berlin_KW4\EventHandlingWinForms\bin\Debug\EventHandlingWinForms.exe
+C:\Users\kh2\source\repos\CSharp_Berlin_KW4\EventHandlingWinForms\bin\Debug\EventHandlingWinForms.pdb
+C:\Users\kh2\source\repos\CSharp_Berlin_KW4\EventHandlingWinForms\obj\Debug\EventHandlingWinForms.csprojAssemblyReference.cache
+C:\Users\kh2\source\repos\CSharp_Berlin_KW4\EventHandlingWinForms\obj\Debug\EventHandlingWinForms.MainWindow.resources
+C:\Users\kh2\source\repos\CSharp_Berlin_KW4\EventHandlingWinForms\obj\Debug\EventHandlingWinForms.Properties.Resources.resources
+C:\Users\kh2\source\repos\CSharp_Berlin_KW4\EventHandlingWinForms\obj\Debug\EventHandlingWinForms.csproj.GenerateResource.cache
+C:\Users\kh2\source\repos\CSharp_Berlin_KW4\EventHandlingWinForms\obj\Debug\EventHandlingWinForms.csproj.CoreCompileInputs.cache
+C:\Users\kh2\source\repos\CSharp_Berlin_KW4\EventHandlingWinForms\obj\Debug\EventHandlingWinForms.exe
+C:\Users\kh2\source\repos\CSharp_Berlin_KW4\EventHandlingWinForms\obj\Debug\EventHandlingWinForms.pdb

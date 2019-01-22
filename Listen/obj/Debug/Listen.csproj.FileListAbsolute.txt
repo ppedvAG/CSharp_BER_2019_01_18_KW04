@@ -1,0 +1,7 @@
+C:\Users\kh2\source\repos\CSharp_Berlin_KW4\Listen\bin\Debug\Listen.exe.config
+C:\Users\kh2\source\repos\CSharp_Berlin_KW4\Listen\bin\Debug\Listen.exe
+C:\Users\kh2\source\repos\CSharp_Berlin_KW4\Listen\bin\Debug\Listen.pdb
+C:\Users\kh2\source\repos\CSharp_Berlin_KW4\Listen\obj\Debug\Listen.csprojAssemblyReference.cache
+C:\Users\kh2\source\repos\CSharp_Berlin_KW4\Listen\obj\Debug\Listen.csproj.CoreCompileInputs.cache
+C:\Users\kh2\source\repos\CSharp_Berlin_KW4\Listen\obj\Debug\Listen.exe
+C:\Users\kh2\source\repos\CSharp_Berlin_KW4\Listen\obj\Debug\Listen.pdb
